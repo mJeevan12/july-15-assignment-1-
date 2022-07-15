@@ -1,0 +1,7 @@
+class solution:
+   def singleNumber(self,nums:list[int]):
+   rem=0
+   for i in nums:
+     rem=rem^t
+   return rem
+   
